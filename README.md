@@ -14,3 +14,7 @@ Proyecto ETL completo de 0 a reporte ejecutivo.
 **Insight principal (Tabasco):** Delito #1 es Fraude (93 casos) con RANK() window function.
 
 Autor: dev1ceIWNL - Paraíso, Tabasco
+
+![Grafica Estados](grafica_estados.png)
+![Grafica Delitos](grafica_delitos.png)
+![Ranking SQL](captura_rank.png)
