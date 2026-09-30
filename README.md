@@ -17,4 +17,4 @@ Autor: dev1ceIWNL - Paraíso, Tabasco
 
 ![Grafica Estados](grafica_estados.png)
 ![Grafica Delitos](grafica_delitos.png)
-![Ranking SQL](captura_rank.png)
+![Ranking SQL](ranking.png)
